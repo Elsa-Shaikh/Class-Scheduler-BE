@@ -27,6 +27,7 @@
 
 2. Set Up Environment Variables
 - DATABASE_URL=your_database_url_here
+- email service credentials
 
 3. Run the Development Server
 - npm run dev
